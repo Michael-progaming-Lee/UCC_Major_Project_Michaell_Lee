@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Dept. of Info. Tech. Mobile App</string>
+    <string name="welcome">Welcome to the Department of Information Technology resource center</string>
+    <string name="taskview">What Task will you be completing today ?</string>
+    <string name="faculty_staff_directory">Faculty/Staff Directory</string>
+    <string name="courses">Courses</string>
+    <string name="admissions">Admissions</string>
+    <string name="social_media">Social Media</string>
+    <string name="email">TODO</string>
+    <string name="enter_phone_number">Enter Phone Number:</string>
+    <string name="call">TODO</string>
+    <string name="emailDisplay">TextView</string>
+    <string name="staffNameDisplay">TextView</string>
+    <string name="staffPnumDisplay">TextView</string>
+    <string name="addmissionrequirements">TextView</string>
+    <string name="apply_now">Apply Now</string>
+</resources>
